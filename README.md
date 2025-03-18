@@ -16,13 +16,9 @@
 
 - 안녕하세요. 현재 대학교 1학년에 재학중인 25학번 naturesh 입니다.
 - 현재 퀀트 투자에 대해 관심을 가지고 공부하고 있습니다.
-
-
-
 <br><br><br>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/naturesh?pet-id=1" width="1000" height="120"/>
-</a>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=altruistic00&theme=warm)
+<br><br><br>
 ![naturesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=naturesh&show_icons=true&theme=dracula)
 
 
