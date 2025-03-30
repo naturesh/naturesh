@@ -14,8 +14,6 @@
 <br><br>
 - 👋 Hi, I’m @naturesh
 
-- 안녕하세요. 현재 대학교 1학년에 재학중인 25학번 naturesh 입니다.
-- 현재 퀀트 투자에 대해 관심을 가지고 공부하고 있습니다.
 <br><br><br>
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=altruistic00&theme=warm)
 <br><br><br>
