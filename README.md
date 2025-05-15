@@ -1,7 +1,9 @@
+<br>
+
+- Kwangwoon Univ 25
 
 
-- Kwangwoon Univ 25학번
-
+<br>
 <div align="center">
 
 
@@ -14,7 +16,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naturesh&layout=compact&theme=" alt="Top Langs"/>
