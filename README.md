@@ -1,7 +1,10 @@
 <br>
 
 - Kwangwoon Univ 25
+<br>
+<br>
 
+- Kwangwoon Univ pintech hackathon - 최우수상
 
 <br>
 <div align="center">
