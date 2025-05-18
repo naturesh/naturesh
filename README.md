@@ -9,9 +9,9 @@
 <br>
 
 ### Projects
-- [llm 기반 온라인 뱅킹 서비스 ( 블록체인 대리인 인증 시스템 )](../../../llan) - **Kwangwoon Univ pintech hackathon**
+- [llm 기반 온라인 뱅킹 서비스 ( 블록체인 대리인 인증 시스템 )](../../../llm-banking-with-nft) - **Kwangwoon Univ pintech hackathon**
 - [xgboost 기반 quant model](../../../xgboost_for_quant) - **personal projects**
-- [langgraph Planner](../../../llm-banking-with-nft) -  **personal projects**
+- [langgraph Planner](../../../llan) -  **personal projects**
 
 <br>
 <br>
