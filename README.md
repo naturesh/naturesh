@@ -4,7 +4,7 @@
 <br>
 <br>
 
-- Kwangwoon Univ pintech hackathon - 최우수상 ☘️
+- Kwangwoon Univ pintech hackathon - 최우수상🥈
 
 <br>
 <br>
