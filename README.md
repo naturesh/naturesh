@@ -20,7 +20,7 @@
 
 
 
-  <img src="https://img.shields.io/badge/Main%20Language-Python, Typescript, ...go-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Main%20Language-Python, Typescript, Go-blue?style=for-the-badge&logo=python&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/AI%20%26%20DL-PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <br>
