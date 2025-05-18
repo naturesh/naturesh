@@ -9,7 +9,7 @@
 <br>
 
 ### Projects
-- [llm 기반 온라인 뱅킹 서비스 ( 블록체인 대리인 인증 시스템 )](/llan) - **Kwangwoon Univ pintech hackathon**
+- [llm 기반 온라인 뱅킹 서비스 ( 블록체인 대리인 인증 시스템 )](../llan) - **Kwangwoon Univ pintech hackathon**
 - xgboost 기반 quant model - **personal projects**
 - langgraph Planner -  **personal projects**
 
