@@ -12,6 +12,7 @@
 - [llm 기반 온라인 뱅킹 서비스 ( 블록체인 대리인 인증 시스템 )](../../../llm-banking-with-nft) - **Kwangwoon Univ pintech hackathon**
 - [xgboost 기반 quant model](../../../xgboost_for_quant) - **personal projects**
 - [langgraph Planner](../../../llan) -  **personal projects**
+- [DonationContract : 투명한 자금 흐름, NFT 인증 컨트랙트](../../../DonationContract_Service) -  **personal projects**
 
 <br>
 <br>
