@@ -8,7 +8,7 @@
 
 |Project name|type|stack|
 |------------|----|-----|
-|[llm 기반 온라인 뱅킹 서비스<br>( 블록체인 대리인 인증 시스템 )](../../../llm-banking-with-nft)|**Kwangwoon Univ pintech hackathon** -  최우수상🥈 | langchain, smartContract, voice2vec|
+|[llm 기반 온라인 뱅킹 서비스<br>( 블록체인 대리인 인증 시스템 )](../../../llm-banking-with-nft)|**Kwangwoon pintech hackathon**-최우수상🥈 | langchain, smartContract, voice2vec|
 |[xgboost 기반 quant model](../../../xgboost_for_quant)|**personal**|xgboost, python|
 |[langgraph Planner](../../../llan)|**personal**|langgraph|
 |[DonationContract : NFT 인증서,<br>투명한 자금 흐름 기부 컨트랙트](../../../DonationContract_Service)|**personal**|Solidity, Polygon, SmartContract|
