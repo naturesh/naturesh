@@ -4,10 +4,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naturesh&show_icons=true&title_color=000000&text_color=000000&icon_color=000000" height="195">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naturesh&layout=compact&title_color=000000&text_color=000000" height="195">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=naturesh&show_icons=true&title_color=000000&text_color=000000&icon_color=000000" height="195">
 
 <br>
 
