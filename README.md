@@ -6,13 +6,13 @@
 
 ### Projects
 
-|Project name|type|stack|
-|------------|----|-----|
-|[llm 기반 온라인 뱅킹 서비스<br>( 블록체인 대리인 인증 시스템 )](../../../llm-banking-with-nft)|**Kwangwoon pintech hackathon**-최우수상🥈 | langchain, smartContract, voice2vec|
-|[xgboost 기반 quant model](../../../xgboost_for_quant)|**personal**|xgboost, python|
-|[langgraph Planner](../../../llan)|**personal**|langgraph|
-|[DonationContract : NFT 인증서,<br>투명한 자금 흐름 기부 컨트랙트](../../../DonationContract_Service)|**personal**|Solidity, Polygon, SmartContract|
-|[code2vec 코드 스타일 임베딩 모델](../../../code2vec)|**personal**|pytorch|
+|Project name|type|stack|date|
+|------------|----|-----|----|
+|[llm 기반 온라인 뱅킹 서비스<br>( 블록체인 대리인 인증 시스템 )](../../../llm-banking-with-nft)|**Kwangwoon pintech hackathon**-최우수상🥈 | langchain, smartContract, voice2vec|2025/05|
+|[xgboost 기반 quant model](../../../xgboost_for_quant)|**personal**|xgboost, python|2025/03|
+|[langgraph Planner](../../../llan)|**personal**|langgraph|2024|
+|[DonationContract : NFT 인증서,<br>투명한 자금 흐름 기부 컨트랙트](../../../DonationContract_Service)|**personal**|Solidity, Polygon, SmartContract|2025/05|
+|[code2vec 코드 스타일 임베딩 모델](../../../code2vec)|**personal**|pytorch|2025/06|
 
 <br>
 <br>
