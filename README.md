@@ -3,6 +3,7 @@
 - Kwangwoon Univ 25
 <br>
 
+![STATS](https://github-readme-stats.vercel.app/api?username=naturesh&show_icons=true)
 
 ### Projects
 
