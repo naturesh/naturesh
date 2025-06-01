@@ -12,6 +12,7 @@
 |[xgboost 기반 quant model](../../../xgboost_for_quant)|**personal**|xgboost, python|
 |[langgraph Planner](../../../llan)|**personal**|langgraph|
 |[DonationContract : NFT 인증서,<br>투명한 자금 흐름 기부 컨트랙트](../../../DonationContract_Service)|**personal**|Solidity, Polygon, SmartContract|
+|[code2vec 코드 스타일 임베딩 모델](../../../code2vec)|**personal**|pytorch|
 
 <br>
 <br>
