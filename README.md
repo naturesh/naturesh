@@ -1,6 +1,6 @@
 <br>
 
-- Kwangwoon Univ 25
+- Kwangwoon Univ 25, 정보융합학부
 
 <br>
 
