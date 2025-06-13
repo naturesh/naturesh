@@ -8,7 +8,7 @@
 
 <br>
 
-### Projects
+### 💡 Projects
 
 |Project name|type|stack|date|
 |:------------|:----:|:-----|:----:|
@@ -21,7 +21,7 @@
 <br>
 
 
-### Playing alone Project or Study
+### 📚 Playing alone Project or Study
 
 |Project name|type|stack|date|
 |:------------|:----:|:-----|:----:|
