@@ -31,6 +31,7 @@
 
 |Project name|type|stack|date|
 |:---------|:----:|:-----|:----:|
+|[Repository Traffic Embed](../../../traffic-viewer)|**personal**|Chart.js, Bunjs|2025/06|
 |[code2vec 코드 스타일 임베딩 모델](../../../code2vec)|**personal**|pytorch|2025/06|
 |[DonationContract : NFT 인증서, 투명한 자금 흐름 기부 컨트랙트](../../../DonationContract_Service)|**personal**|Solidity, Polygon, SmartContract|2025/05|
 |[llm 기반 온라인 뱅킹 서비스 ( 블록체인 대리인 인증 시스템 )](../../../llm-banking-with-nft)|**Kwangwoon pintech hackathon**-최우수상🥈 | langchain, smartContract, voice2vec|2025/05|
