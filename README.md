@@ -10,10 +10,12 @@
       <td><img src="https://github-readme-stats.vercel.app/api?username=naturesh&show_icons=true&title_color=000000&text_color=000000&icon_color=000000" height="195"></td>
       <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=naturesh&card_width=466" alt="GitHub Streak"></a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/naturesh/traffic-viewer"><img src="https://github.com/naturesh/traffic-viewer/blob/main/output.png?raw=true" width=466 alt="GitHub Traffic"></a></td>
+    </tr>
   </table>
 </div>
 
-[![Traffic View](https://github.com/naturesh/traffic-viewer/blob/main/output.png?raw=true)](https://github.com/naturesh/traffic-viewer)
 
 <br>
 
