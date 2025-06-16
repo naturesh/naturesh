@@ -46,7 +46,7 @@
 |Project name|type|stack|date|
 |:---------|:----:|:-----|:----:|
 |[스테가노그래피 U-Net 논문 따라하기](../../../deep-learning-paper-practice/tree/main/Steganography/U-Net-Image)|**study**|U-Net, Pytorch|2025/06|
-|[딥러닝 이미지 데이터셋 구축 라이브러리](../../../image_crawler)|**personal**|ViT-B-32 모델|2025/05|
+|[딥러닝 이미지 데이터셋 구축 라이브러리](../../../image_dataset_maker)|**personal**|ViT-B-32 모델|2025/05|
 
 
 <br>
