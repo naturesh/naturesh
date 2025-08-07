@@ -4,15 +4,11 @@
 
 <br>
 
-<table>
-  <tr align="center">
-    <td>
-      <a href="https://github.com/naturesh/traffic-viewer">
-        <img src="https://github.com/naturesh/traffic-viewer/blob/main/output.png?raw=true" width="70%" alt="GitHub Traffic">
-      </a>
-    </td>
-  </tr>
-</table>
+
+<a href="https://github.com/naturesh/traffic-viewer">
+  <img src="https://github.com/naturesh/traffic-viewer/blob/main/output.png?raw=true" width="70%" alt="GitHub Traffic">
+</a>
+
 
 
 <br>
