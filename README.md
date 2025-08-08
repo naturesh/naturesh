@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/naturesh/traffic-viewer">
-    <img src="https://github.com/naturesh/traffic-viewer/blob/main/output.png?raw=true" width="98%" alt="GitHub Traffic">
+    <img src="https://github.com/naturesh/traffic-viewer/blob/main/output.png?raw=true" width="90%" alt="GitHub Traffic">
   </a>
 </div>
 
