@@ -2,9 +2,9 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/naturesh/traffic-viewer">
+  <!-- <a href="https://github.com/naturesh/traffic-viewer">
     <img src="https://github.com/naturesh/traffic-viewer/blob/main/output.png?raw=true" width="80%" alt="GitHub Traffic">
-  </a>
+  </a> -->
 </div>
 
 <br>
