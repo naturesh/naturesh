@@ -4,6 +4,7 @@
   </a> -->
 </div>
 
+[![Hits](https://hits.sh/github.com/naturesh.svg?view=today-total&style=for-the-badge&color=8f44e0)](https://hits.sh/github.com/naturesh/)
 
 ### Projects
 
@@ -16,6 +17,7 @@
 |[llm 기반 온라인 뱅킹 서비스](../../../llm-banking-with-nft)|**KWU pintech hackathon**-최우수상🥈 | langchain, smartContract, voice2vec|2025/05|
 
 <br>
+
 
 <img src="http://mazandi.herokuapp.com/api?handle=altruistic00&theme=warm"/>
 
