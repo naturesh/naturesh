@@ -1,16 +1,10 @@
-<!-- <br>
-<br> -->
-
 <div align="center">
   <!-- <a href="https://github.com/naturesh/traffic-viewer">
     <img src="https://github.com/naturesh/traffic-viewer/blob/main/output.png?raw=true" width="80%" alt="GitHub Traffic">
   </a> -->
 </div>
 
-<!-- <br> -->
 
-### BOJ   
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=altruistic00)](https://solved.ac/altruistic00)
 ### Projects
 
 |Project name|type|stack|date|
@@ -20,5 +14,9 @@
 |[bridge-BLIP,InstuructBLIP 경량화](../../../bridge-blip)|**SCPC AI 2025 4th prize 🥉**|pytorch|2025/08|
 |[DonationContract, solidity 기반 추적 가능한 기부 서비스](../../../DonationContract)|**personal project**|Solidity, Polygon, SmartContract|2025/05|
 |[llm 기반 온라인 뱅킹 서비스](../../../llm-banking-with-nft)|**KWU pintech hackathon**-최우수상🥈 | langchain, smartContract, voice2vec|2025/05|
+
+<br>
+
+<img src="http://mazandi.herokuapp.com/api?handle=altruistic00&theme=warm"/>
 
 <br>
